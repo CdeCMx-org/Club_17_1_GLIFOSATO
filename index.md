@@ -138,6 +138,7 @@ La pregunta a plantear es, ¿Los compradores están haciendo mal uso del product
 			<p><em><h4>“LA OBLIGACIÓN DE RESISTIR NOS DA EL DERECHO DE SABER” ‐RACHEL CARSON.</h4></em></p>
 <br>
 BIBLIOGRAFÍA
+<br>
 <https://www.hsph.harvard.edu/news/hsph-in-the-news/probable-carcinogenic herbicide-breakfast/>
 <https://www.greenpeace.org/mexico/blog/9205/glifosato-herbicida-agentecancerigeno/#origen-glifosato>
 <https://surcosdigital.com/wp-content/uploads/2020/04/Antologia-toxicol%C3%B3gica-del-glifosato-5-ed.pdfGlifosato, el pesticida más peligroso del mundo https://www.youtube.com/watch?v=UFXhiNPK7jA>
@@ -156,8 +157,6 @@ BIBLIOGRAFÍA
 <https://patents.google.com/patent/MX2012009909A/es.>
 <http://www.scielo.org.co/pdf/agc/v26n1/v26n1a12.pdf.>
 <https://www.interempresas.net/Horticola/Articulos/350156-Biofertilizantes-base-microalgas-procedentes-tratamiento-aguas-residuales-beneficios.html.>
-
-</blockquote>
 
 	</body>
 </html>
