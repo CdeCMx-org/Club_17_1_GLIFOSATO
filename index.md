@@ -9,9 +9,6 @@
 \
 \
 \
-\
-\
-\
 		<center><img src="glifosato.jpg">
 			    
 	            <p><h6><em>En 2017, se llevó a cabo una acción conjunta en Europa (Bruselas, Madrid, Roma, Berlín y París), organizada por Greenpeace y miembros de otras ONGs para impulsar una Iniciativa Ciudadana Europea que regule los pesticidas y prohíba el glifosato. © Greenpeace / Eric De Mildt. © Eric De Mildt / Greenpeace</em></h6></p></center>
