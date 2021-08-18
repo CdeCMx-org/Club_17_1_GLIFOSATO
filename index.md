@@ -67,43 +67,60 @@ Actualmente, el glifosato es el herbicida más usado a nivel mundial y principal
 <br>
 <strong><h5>TOXICIDAD EN ALIMENTOS Y ENFERMEDADES EN HUMANOS</h5></strong>
 <div style="text-align: justify"><p>Las plantas transgénicas resistentes al glifosato, estas también contienen residuos de herbicidas que presentan una serie de posibles riesgos para la seguridad en animales y seres humanos. A continuación, se presenta un listado de casos de las enfermedades, que encontramos están frecuentemente relacionadas con glifosato. Los posibles daños incluyen: la toxicidad directa del glifosato en sí, que se ha demostrado que puede causar alteraciones endocrinas, daño en el ADN, toxicidad reproductiva y del desarrollo, neurotoxicidad, encefalopatía, parkinsonismo; diferentes tipos de cáncer; linfoma no hodgkin (LNH) y teratogénesis (malformaciones) por defectos de nacimiento; las alergias están aumentando, los animales están mostrando respuestas alérgicas, incluyendo estómagos irritados e inflamados, decoloración de la mucosa gástrica y perforaciones intestinales; lo que se traduce en síntomas conductuales de irritabilidad y comportamiento antisocial en las vacas (anormal en animales de manadas) y otros animales.</p></div>
-
-
-			<h4>ESTADÍSTICAS ÍNDICE DE MORTALIDAD/ENFERMEDADES</h4>
-
-			<p>Diferentes estudios experimentales (in vitro) y estudios de correlación (epidemiológicos), han demostrado que diferentes productos a base de glifosato, han afectado la salud humana. Según la bibliografía, se han reportado efectos genotóxicos, hormonales y efectos enzimáticos en los mamíferos. En varios estudios, el glifosato se asoció con un aumento de aductos de ADN en ratones y un efecto mutagénico débil en el ensayo de Salmonella. Por lo que parte de las estadísticas de enfermedades crónicas a nivel mundial, son causadas por este tipo de herbicidas, donde los grupos de población más expuestos a estos agroquímicos, son los agricultores y quienes aplican estos plaguicidas, pues se exponen a altos niveles de esta sustancia química diariamente; y los bebes y/o fetos, que en la mayoría de casos son expuestos por medio de sus madres a este tipo de sustancias</p>
-
-
-
-			<h4>SOLUCIONES ALTERNAS</h4>
-
-			<p>Claramente las consecuencias en las afectaciones de la salud humana, se verán más presentes en las zonas mencionadas anteriormente, sin embargo, es importante tener en cuenta que el uso del glifosato es usado tanto en la agricultura industrial y también para uso doméstico. En agricultura para pre cosecha, post siembra y pre emergencia, en huertos, silvicultura, control intensivo de malezas, viñas, y pastos, como en uso de cultivos transgénicos de maíz, algodón, y soya resistente; y de forma doméstica en pequeñas huertas y jardines residenciales. Ahora no es necesario, sino también obligatorio, el pensar en otras alternativas, no solo para el bienestar de los ecosistemas sino de la salud humana, que ha acarreado una serie de enfermedades nuevas y de antaño pero ahora más resistentes a tratamientos. A continuación enunciamos las medidas alternas más usadas actualmente por agricultores y que han funcionado de manera efectiva en la mayoría de los casos.</p>
-
-			<strong><h5>MÉTODOS MECÁNICOS, MANUALES Y TÉRMICOS</h5></strong>
-			<p>Son los métodos más respetuosos con el ambiente y salud de las personas, pueden generar empleos, se usan para remover plantas indeseadas. La extracción manual de malas hierbas es adecuada para pequeños espacios o lugares donde el crecimiento de hierbas es escaso. Las escardas y siegas mecánicas eliminan o recortan hierbas ya germinadas o en desarrollo usando maquinaria en relación al tamaño del área. La escarda térmica aplica calor con quemadores de gas o infrarrojo sobre las hierbas a eliminar para deshidratarlas.</p>
-
-			<strong><h5>FALSAS SIEMBRAS</h5></strong>
-			<p>Permite eliminar las hierbas y malezas, ideal para antes de establecer una cubierta o acolchado, para lo que se prepara el terreno y se riega provocando que germinen y facilitando su extracción, puede repetirse cuantas veces haga falta.</p>
-
-			<strong><h5>CUBIERTAS, MULCHING, ACOLCHADOS Y GRAVAS</h5></strong>
-			<p>Se usan para impedir la germinación y crecimiento de las plantas, proteger de la erosión, filtrado de agua y compactado, además de ahorrar agua y mano de obra, y si es orgánica, aportarán progresivamente nutrientes de lenta incorporación, si es otro cultivo, además se reutiliza la poda como acolchado, conservan la mesofauna y limitan la germinación de malas hierbas</p>
-
-			<strong><h5>ALELOPATÍA</h5></strong>
-			<p>Mediante la secreción de aleloquímicos por parte de algunas plantas se puede inhibir el crecimiento de otras plantas, además sirven de abono.</p>
-
-			<strong><h5>ROTACIÓN DE CULTIVOS</h5></strong>
-			<p>Consiste en cultivar distintos cultivos compatibles entre sí para enriquecer el suelo y mantener la fertilidad del mismo al cambiar plantas exigentes por otras enriquecedoras</p>
-
-			<strong><h5>CONTROL BIOLÓGICO</h5></strong>
-			<p>La producción y uso de entomófagos, entomopatógenos y conservación de enemigos naturales al diversificar los sistemas permiten la biorregulación de las plagas.</p>
-
-			<strong><h5>METABOLITOS SECUNDARIOS Y BIOMOLÉCULAS PESTICIDAS</h5></strong>
-			<p>Este tópico en específico está siendo trabajado por otros miembros de nuestro club de ciencia. Existen muchas plantas con actividad pesticida, pero hay muchas sin estudio de sus compuestos purificados independientemente. Las más populares son: Tabaco nicotiana, Theprosia, Chrysanthemum (nicotina, rotenona, piretrinas), Ocimum basilicum, Tagetes erecta, Azadirachta indica, Origanum vulgare y Euphorbia láctea. Especies de Burkholderia y piperaceae sin patogenicidad conocida en vertebrados muestran actividad pesticida. Pueden ser compuestos bioactivos como taninos, fenoles y terpenos, monoterpenos, sesquiterpenos, cianohidrinas, ésteres y aceites esenciales. Las hojas de yuca la protegen de orugas, cenizas de hojas de Lantana spp. y Ochroma logopur se usan en polvo contra áfidos en papas, extracto de la semillas de neem (A Indica) como insecticida, extracto de cianohidrinas y esteres de lino, mandioca, hueso de durazno y almendra contra moscas y larvas de mosquito. En los insectos pueden inhibir reguladores de crecimiento, inhibidores de la alimentación, y repelentes por irritación</p>
-
-			<strong><h5>MICROALGAS</h5></strong>
-			<p>Se pueden cultivar usando aguas residuales, reciclando nutrientes y con potencial de usarse como fertilizante, y biocontrolador, algunas incluso actúan como bioestimulantes y biopesticidas, además, reducen las emisiones de gases de efecto invernadero. Los huertos caseros buscan reducir costos y favorecer el medio ambiente, para lo que deben usarse biopesticidas provenientes de plantas, que al degradarse puedan usarse como abono con frecuencia y constancia, también podemos apoyarnos de insectos y hongos que controlan plagas.
-			El herbicida como sabemos está estrechamente asociado con la agricultura, usado como medio de cese de maleza, pero, la industria agrícola masiva y de monocultivos, no solo nos oculta el verdadero potencial peligroso de este herbicida, sino que además de ello viene con un acompañante, los OGM. De esta manera ya no solo nos enfrentamos a erradicar el uso de glifosato sino también a frenar la producción de alimentos genéticamente modificados.
-			La pregunta a plantear es, ¿Los compradores están haciendo mal uso del producto o las empresas solo buscan monetizar a costa de la salud pública? Por lo cual debemos cambiar y educar la población para el reemplazo de agroquímicos dañinos y con efectos residuales, por soluciones alternativas más amígales con el ambiente y la salud humana.</p>
+<br>
+<br>
+<br>
+<h4>ESTADÍSTICAS ÍNDICE DE MORTALIDAD/ENFERMEDADES</h4>
+<br>
+<div style="text-align: justify"><p>Diferentes estudios experimentales (in vitro) y estudios de correlación (epidemiológicos), han demostrado que diferentes productos a base de glifosato, han afectado la salud humana. Según la bibliografía, se han reportado efectos genotóxicos, hormonales y efectos enzimáticos en los mamíferos. En varios estudios, el glifosato se asoció con un aumento de aductos de ADN en ratones y un efecto mutagénico débil en el ensayo de Salmonella. Por lo que parte de las estadísticas de enfermedades crónicas a nivel mundial, son causadas por este tipo de herbicidas, donde los grupos de población más expuestos a estos agroquímicos, son los agricultores y quienes aplican estos plaguicidas, pues se exponen a altos niveles de esta sustancia química diariamente; y los bebes y/o fetos, que en la mayoría de casos son expuestos por medio de sus madres a este tipo de sustancias</p></div>
+<br>
+<br>
+<br>
+<center><img src="imagen3.png" width="600" height="300">
+<p><h6><em> Enfermedades crónicas a nivel mundial. Fuente: el orden mundial,  organización mundial de la salud (2016).</em></h6></p></center>
+<br>
+<br>
+<br>
+<h4>SOLUCIONES ALTERNAS</h4>
+<br>
+<div style="text-align: justify"><p>Claramente las consecuencias en las afectaciones de la salud humana, se verán más presentes en las zonas mencionadas anteriormente, sin embargo, es importante tener en cuenta que el uso del glifosato es usado tanto en la agricultura industrial y también para uso doméstico. En agricultura para pre cosecha, post siembra y pre emergencia, en huertos, silvicultura, control intensivo de malezas, viñas, y pastos, como en uso de cultivos transgénicos de maíz, algodón, y soya resistente; y de forma doméstica en pequeñas huertas y jardines residenciales. Ahora no es necesario, sino también obligatorio, el pensar en otras alternativas, no solo para el bienestar de los ecosistemas sino de la salud humana, que ha acarreado una serie de enfermedades nuevas y de antaño pero ahora más resistentes a tratamientos. A continuación enunciamos las medidas alternas más usadas actualmente por agricultores y que han funcionado de manera efectiva en la mayoría de los casos.</p></div>
+<br>
+<strong><h5>MÉTODOS MECÁNICOS, MANUALES Y TÉRMICOS</h5></strong>
+<br>
+<div style="text-align: justify"><p>Son los métodos más respetuosos con el ambiente y salud de las personas, pueden generar empleos, se usan para remover plantas indeseadas. La extracción manual de malas hierbas es adecuada para pequeños espacios o lugares donde el crecimiento de hierbas es escaso. Las escardas y siegas mecánicas eliminan o recortan hierbas ya germinadas o en desarrollo usando maquinaria en relación al tamaño del área. La escarda térmica aplica calor con quemadores de gas o infrarrojo sobre las hierbas a eliminar para deshidratarlas.</p></div>
+<br>
+<strong><h5>FALSAS SIEMBRAS</h5></strong>
+<br>
+<div style="text-align: justify"><p>Permite eliminar las hierbas y malezas, ideal para antes de establecer una cubierta o acolchado, para lo que se prepara el terreno y se riega provocando que germinen y facilitando su extracción, puede repetirse cuantas veces haga falta.</p></div>
+<br>
+<strong><h5>CUBIERTAS, MULCHING, ACOLCHADOS Y GRAVAS</h5></strong>
+<br>
+<div style="text-align: justify"><p>Se usan para impedir la germinación y crecimiento de las plantas, proteger de la erosión, filtrado de agua y compactado, además de ahorrar agua y mano de obra, y si es orgánica, aportarán progresivamente nutrientes de lenta incorporación, si es otro cultivo, además se reutiliza la poda como acolchado, conservan la mesofauna y limitan la germinación de malas hierbas</p></div>
+<br>
+<strong><h5>ALELOPATÍA</h5></strong>
+<br>
+<div style="text-align: justify"><p>Mediante la secreción de aleloquímicos por parte de algunas plantas se puede inhibir el crecimiento de otras plantas, además sirven de abono.</p></div>
+<br>
+<strong><h5>ROTACIÓN DE CULTIVOS</h5></strong>
+<br>
+<div style="text-align: justify"><p>Consiste en cultivar distintos cultivos compatibles entre sí para enriquecer el suelo y mantener la fertilidad del mismo al cambiar plantas exigentes por otras enriquecedoras</p></div>
+<br>
+<strong><h5>CONTROL BIOLÓGICO</h5></strong>
+<br>
+<div style="text-align: justify"><p>La producción y uso de entomófagos, entomopatógenos y conservación de enemigos naturales al diversificar los sistemas permiten la biorregulación de las plagas.</p></div>
+<br>
+<strong><h5>METABOLITOS SECUNDARIOS Y BIOMOLÉCULAS PESTICIDAS</h5></strong>
+<br>
+<div style="text-align: justify"><p>Este tópico en específico está siendo trabajado por otros miembros de nuestro club de ciencia. Existen muchas plantas con actividad pesticida, pero hay muchas sin estudio de sus compuestos purificados independientemente. Las más populares son: Tabaco nicotiana, Theprosia, Chrysanthemum (nicotina, rotenona, piretrinas), Ocimum basilicum, Tagetes erecta, Azadirachta indica, Origanum vulgare y Euphorbia láctea. Especies de Burkholderia y piperaceae sin patogenicidad conocida en vertebrados muestran actividad pesticida. Pueden ser compuestos bioactivos como taninos, fenoles y terpenos, monoterpenos, sesquiterpenos, cianohidrinas, ésteres y aceites esenciales. Las hojas de yuca la protegen de orugas, cenizas de hojas de Lantana spp. y Ochroma logopur se usan en polvo contra áfidos en papas, extracto de la semillas de neem (A Indica) como insecticida, extracto de cianohidrinas y esteres de lino, mandioca, hueso de durazno y almendra contra moscas y larvas de mosquito. En los insectos pueden inhibir reguladores de crecimiento, inhibidores de la alimentación, y repelentes por irritación</p></div>
+<br>
+<strong><h5>MICROALGAS</h5></strong>
+<br>
+<div style="text-align: justify"><p>Se pueden cultivar usando aguas residuales, reciclando nutrientes y con potencial de usarse como fertilizante, y biocontrolador, algunas incluso actúan como bioestimulantes y biopesticidas, además, reducen las emisiones de gases de efecto invernadero. Los huertos caseros buscan reducir costos y favorecer el medio ambiente, para lo que deben usarse biopesticidas provenientes de plantas, que al degradarse puedan usarse como abono con frecuencia y constancia, también podemos apoyarnos de insectos y hongos que controlan plagas.</p></div>
+<br>
+<br>
+<br>
+<div style="text-align: justify"><p>El herbicida como sabemos está estrechamente asociado con la agricultura, usado como medio de cese de maleza, pero, la industria agrícola masiva y de monocultivos, no solo nos oculta el verdadero potencial peligroso de este herbicida, sino que además de ello viene con un acompañante, los OGM. De esta manera ya no solo nos enfrentamos a erradicar el uso de glifosato sino también a frenar la producción de alimentos genéticamente modificados.
+La pregunta a plantear es, ¿Los compradores están haciendo mal uso del producto o las empresas solo buscan monetizar a costa de la salud pública? Por lo cual debemos cambiar y educar la población para el reemplazo de agroquímicos dañinos y con efectos residuales, por soluciones alternativas más amígales con el ambiente y la salud humana.</p></div>
 
 			<p><em><h4>“LA OBLIGACIÓN DE RESISTIR NOS DA EL DERECHO DE SABER” ‐RACHEL CARSON.</h4></em></p>
 
