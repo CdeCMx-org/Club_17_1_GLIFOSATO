@@ -5,34 +5,38 @@
 	<body>
 <blockquote>
 				<center><h2>MENTIRAS DE MUERTE Y GLIFOSATO</h2></center>
-<div style="text-align: justify">Hoy en día debido al crecimiento exponencial de la población se ha incrementado la demanda de más alimentos en  periodos de tiempo muy estrechos, sin importar el lugar, es una necesidad básica que debemos cubrir. Debido a esa  demanda, las empresas productoras de alimentos buscan incrementar su producción de manera eficiente, para lo cual  hacen uso de alto contenido de agroquímicos dentro de ellos, fungicidas, pesticidas y herbicidas, muchas veces de  forma innecesaria, solo para garantizar una alta producción y pocas perdidas. Es por ello que abordar el tema del  glifosato ya no solo es de índole científico, pues ahora a nosotros como comunidad nos corresponde estar informados  sobre lo que sucede detrás de la industria alimentaria. En este artículo explicaremos de manera detallada y concisa <strong>que es el glifosato, modo de acción, enfermedades que  causa y sobre todo las medidas alternas para disminuir o erradicar su uso</strong>, ser amigables con el ambiente, para no causar  daño en la biota y proteger la salud humana por los efectos adversos que causa este herbicida en la acumulación no  solo en la tierra, sino también en las aguas, el aire y los alimentos de consumo rutinario.</div>
 <br>
 <br>
 <br>
 		<center><img src="glifosato.jpg">
-			    
-	            <p><h6><em>En 2017, se llevó a cabo una acción conjunta en Europa (Bruselas, Madrid, Roma, Berlín y París), organizada por Greenpeace y miembros de otras ONGs para impulsar una Iniciativa Ciudadana Europea que regule los pesticidas y prohíba el glifosato. © Greenpeace / Eric De Mildt. © Eric De Mildt / Greenpeace</em></h6></p></center>
-
-
-
-			<h4>¿QUÉ ES EL GLIFOSATO?</h4>
-			<p>El glifosato es un herbicida de amplio espectro, no selectivo y sistémico: cualquier planta puede absorberlo a través de  sus tejidos, según el tipo de aplicación que se realice. 
-			El glifosato mata las plantas interfiriendo con la síntesis de los  aminoácidos y detiene el crecimiento a las pocas horas de la aplicación. 
-			El glifosato es el principio activo del herbicida Roundup (nombre comercial  
-			producido por Monsanto comprada por la compañía Bayer en 2018). Adicionalmente esta compañía ha producido muchos alimentos transgénicos resistentes al glifosato como: variedades de canola, maíz, algodón, soya, remolacha  
-			azucarera, trigo y algodón. 
-			Actualmente, el glifosato es el herbicida más usado a nivel mundial y principalmente en Estados Unidos.  
-			A pesar de que durante años se pensó que su uso no representaba ningún impacto negativo para el entorno ni para la  salud humana, poco a poco se acumuló evidencia del potencial daño que encierra este químico. También resulta  importante hacer un análisis desde el punto de vista de resistencia microbiana, de cómo estos microorganismos  posteriormente pueden infectar los seres humanos creando así un desbalance ambiental, microbiano y la relación con  los seres vivos entre ellos la raza humana. No se necesita ser alguien de muchos conocimientos para darse cuenta que  ha traído más desventajas que ventajas la producción masiva de alimentos. 
-			Entre los agricultores e industrias la práctica sigue siendo con desinterés e incluso ignorancia, porque para quienes  hacen negocios vendiendo y aplicando productos químicos es algo “bueno” eliminar las malezas, lo que no están  tomando en cuenta es, que no solo ataca las “malas hierbas” sino que también daña a la vegetación nativa, provocando  la destrucción de cualquier otro tipo de planta que intente germinar en ese suelo, inclusive los propios cultivos, lo que  a su vez, resulta en daños ambientales desequilibrando la flora, fauna y perjudicando la salud de las personas.</p>
-
-
-
-			<h4>ESTADÍSTICAS DE ZONAS DONDE SE CULTIVA Y USA GLIFOSATO</h4>
-			<p>Para ver el efecto de los plaguicidas y transgénicos en la salud humana, resulta importante hacer un análisis desde el  punto de vista de <strong>resistencias microbianas, producción de transgénicos, plaguicidas, y sus usos, en comparación con  estadísticas de enfermedades causadas por agroquímicos</strong>. El uso reiterado de herbicidas, tiene como consecuencia  secundaria, <strong>la producción de resistencias en las malezas</strong>, lo que conlleva a perder el control adecuado del cultivo e  implica la sustitución del herbicida por otro agroquímico, que posiblemente genere resistencia microbiana. En el mundo  diferentes zonas agrícolas han presentado este tipo de resistencia, la cual se refleja como consecuencia de la utilización  de agroquímicos en el mundo.</p>
-			<center><img src="grafica1.png" width="600" height="300"></center>
-			<p><h6><em>Distribución mundial de la resistencia a herbicidas, obtenida  de heap (2006).Fuente:Manejo de poblaciones de malezas resistentes a  herbicidas 100 preguntas sobre resistencias.</em></h6></p>
-			<center><img src="grafica2.png" width="600" height="300"></center>
-			<p><h6><em>Consumo anual de pesticidas a nivel mundial. Fuente: plaguicidas sintéticos: realidad y ficción, marzo 16, 2017</em></h6></p>
+<p><h6><em>En 2017, se llevó a cabo una acción conjunta en Europa (Bruselas, Madrid, Roma, Berlín y París), organizada por Greenpeace y miembros de otras ONGs para impulsar una Iniciativa Ciudadana Europea que regule los pesticidas y prohíba el glifosato. © Greenpeace / Eric De Mildt. © Eric De Mildt / Greenpeace</em></h6></p></center>
+<br>
+<br>
+<br>
+<div style="text-align: justify">Hoy en día debido al crecimiento exponencial de la población se ha incrementado la demanda de más alimentos en  periodos de tiempo muy estrechos, sin importar el lugar, es una necesidad básica que debemos cubrir. Debido a esa  demanda, las empresas productoras de alimentos buscan incrementar su producción de manera eficiente, para lo cual  hacen uso de alto contenido de agroquímicos dentro de ellos, fungicidas, pesticidas y herbicidas, muchas veces de  forma innecesaria, solo para garantizar una alta producción y pocas perdidas. Es por ello que abordar el tema del  glifosato ya no solo es de índole científico, pues ahora a nosotros como comunidad nos corresponde estar informados  sobre lo que sucede detrás de la industria alimentaria. En este artículo explicaremos de manera detallada y concisa <strong>que es el glifosato, modo de acción, enfermedades que  causa y sobre todo las medidas alternas para disminuir o erradicar su uso</strong>, ser amigables con el ambiente, para no causar  daño en la biota y proteger la salud humana por los efectos adversos que causa este herbicida en la acumulación no  solo en la tierra, sino también en las aguas, el aire y los alimentos de consumo rutinario.</div>
+<br>
+<br>
+<br>
+<h4>¿QUÉ ES EL GLIFOSATO?</h4>
+<div style="text-align: justify"><p>El glifosato es un herbicida de amplio espectro, no selectivo y sistémico: cualquier planta puede absorberlo a través de  sus tejidos, según el tipo de aplicación que se realice. 
+El glifosato mata las plantas interfiriendo con la síntesis de los  aminoácidos y detiene el crecimiento a las pocas horas de la aplicación. 
+El glifosato es el principio activo del herbicida Roundup (nombre comercial producido por Monsanto comprada por la compañía Bayer en 2018). Adicionalmente esta compañía ha producido muchos alimentos transgénicos resistentes al glifosato como: variedades de canola, maíz, algodón, soya, remolacha azucarera, trigo y algodón. 
+Actualmente, el glifosato es el herbicida más usado a nivel mundial y principalmente en Estados Unidos. A pesar de que durante años se pensó que su uso no representaba ningún impacto negativo para el entorno ni para la  salud humana, poco a poco se acumuló evidencia del potencial daño que encierra este químico. También resulta  importante hacer un análisis desde el punto de vista de resistencia microbiana, de cómo estos microorganismos  posteriormente pueden infectar los seres humanos creando así un desbalance ambiental, microbiano y la relación con  los seres vivos entre ellos la raza humana. No se necesita ser alguien de muchos conocimientos para darse cuenta que  ha traído más desventajas que ventajas la producción masiva de alimentos. Entre los agricultores e industrias la práctica sigue siendo con desinterés e incluso ignorancia, porque para quienes  hacen negocios vendiendo y aplicando productos químicos es algo “bueno” eliminar las malezas, lo que no están  tomando en cuenta es, que no solo ataca las “malas hierbas” sino que también daña a la vegetación nativa, provocando  la destrucción de cualquier otro tipo de planta que intente germinar en ese suelo, inclusive los propios cultivos, lo que  a su vez, resulta en daños ambientales desequilibrando la flora, fauna y perjudicando la salud de las personas.</p></div>
+<br>
+<br>
+<br>
+<h4>ESTADÍSTICAS DE ZONAS DONDE SE CULTIVA Y USA GLIFOSATO</h4>
+<div style="text-align: justify"><p>Para ver el efecto de los plaguicidas y transgénicos en la salud humana, resulta importante hacer un análisis desde el  punto de vista de <strong>resistencias microbianas, producción de transgénicos, plaguicidas, y sus usos, en comparación con  estadísticas de enfermedades causadas por agroquímicos</strong>. El uso reiterado de herbicidas, tiene como consecuencia  secundaria, <strong>la producción de resistencias en las malezas</strong>, lo que conlleva a perder el control adecuado del cultivo e  implica la sustitución del herbicida por otro agroquímico, que posiblemente genere resistencia microbiana. En el mundo  diferentes zonas agrícolas han presentado este tipo de resistencia, la cual se refleja como consecuencia de la utilización  de agroquímicos en el mundo.</p></div>
+<br>
+<br>
+<br>
+<center><img src="grafica1.png" width="600" height="300">
+<p><h6><em>Distribución mundial de la resistencia a herbicidas, obtenida  de heap (2006).Fuente:Manejo de poblaciones de malezas resistentes a  herbicidas 100 preguntas sobre resistencias.</em></h6></p></center>
+<br>
+<br>
+<br>
+<center><img src="grafica2.png" width="600" height="300">
+<p><h6><em>Consumo anual de pesticidas a nivel mundial. Fuente: plaguicidas sintéticos: realidad y ficción, marzo 16, 2017</em></h6></p></center>
 
 			<p>Como se observa en la gráfica 2, Se encuentra américa del norte, américa del sur, Australia, Europa, China y amplias  zonas de África, como los principales consumidores de agroquímicos, donde estas mismas zonas coinciden con la  distribución a nivel mundial de las resistencias a herbicidas, ver gráfica 1, Al igual que el análisis anterior, se puede ver,  que las zonas donde hay presencia de resistencia a herbicidas, coinciden con las zonas donde hay producción de cultivos  transgénicos, tal como se observa en la gráfica 3.</p>
 			<center><img src="grafica3.png" width="600" height="300">
