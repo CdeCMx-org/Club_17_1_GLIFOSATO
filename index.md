@@ -1,7 +1,7 @@
-## GLIFOSATO
-JULIAN, ,ANE Y ANA
-
-MANEEEEEEEE
+<html>
+	<head>
+			<meta charset="utf-8">
+			<center>MENTIRAS DE MUERTE Y GLIFOSATO</center>
 
 
 You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_17_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
