@@ -89,35 +89,49 @@ Actualmente, el glifosato es el herbicida más usado a nivel mundial y principal
 <br>
 <div style="text-align: justify"><p>Son los métodos más respetuosos con el ambiente y salud de las personas, pueden generar empleos, se usan para remover plantas indeseadas. La extracción manual de malas hierbas es adecuada para pequeños espacios o lugares donde el crecimiento de hierbas es escaso. Las escardas y siegas mecánicas eliminan o recortan hierbas ya germinadas o en desarrollo usando maquinaria en relación al tamaño del área. La escarda térmica aplica calor con quemadores de gas o infrarrojo sobre las hierbas a eliminar para deshidratarlas.</p></div>
 <br>
-<div style="text-align: right"><img src="1.jpg" width="600" height="300"></div>
+<div style="text-align: right"><img src="1.jpg" width="500" height="200"></div>
 <br>
 <strong><h5>FALSAS SIEMBRAS</h5></strong>
 <br>
 <div style="text-align: justify"><p>Permite eliminar las hierbas y malezas, ideal para antes de establecer una cubierta o acolchado, para lo que se prepara el terreno y se riega provocando que germinen y facilitando su extracción, puede repetirse cuantas veces haga falta.</p></div>
 <br>
+<div style="text-align: right"><img src="2.jpg" width="500" height="200"></div>
+<br>
 <strong><h5>CUBIERTAS, MULCHING, ACOLCHADOS Y GRAVAS</h5></strong>
 <br>
 <div style="text-align: justify"><p>Se usan para impedir la germinación y crecimiento de las plantas, proteger de la erosión, filtrado de agua y compactado, además de ahorrar agua y mano de obra, y si es orgánica, aportarán progresivamente nutrientes de lenta incorporación, si es otro cultivo, además se reutiliza la poda como acolchado, conservan la mesofauna y limitan la germinación de malas hierbas</p></div>
+<br>
+<div style="text-align: right"><img src="3.jpg" width="500" height="200"></div>
 <br>
 <strong><h5>ALELOPATÍA</h5></strong>
 <br>
 <div style="text-align: justify"><p>Mediante la secreción de aleloquímicos por parte de algunas plantas se puede inhibir el crecimiento de otras plantas, además sirven de abono.</p></div>
 <br>
+<div style="text-align: right"><img src="4.jpg" width="500" height="200"></div>
+<br>
 <strong><h5>ROTACIÓN DE CULTIVOS</h5></strong>
 <br>
 <div style="text-align: justify"><p>Consiste en cultivar distintos cultivos compatibles entre sí para enriquecer el suelo y mantener la fertilidad del mismo al cambiar plantas exigentes por otras enriquecedoras</p></div>
+<br>
+<div style="text-align: right"><img src="5.jpg" width="500" height="200"></div>
 <br>
 <strong><h5>CONTROL BIOLÓGICO</h5></strong>
 <br>
 <div style="text-align: justify"><p>La producción y uso de entomófagos, entomopatógenos y conservación de enemigos naturales al diversificar los sistemas permiten la biorregulación de las plagas.</p></div>
 <br>
+<div style="text-align: right"><img src="6.jpg" width="500" height="200"></div>
+<br>
 <strong><h5>METABOLITOS SECUNDARIOS Y BIOMOLÉCULAS PESTICIDAS</h5></strong>
 <br>
 <div style="text-align: justify"><p>Este tópico en específico está siendo trabajado por otros miembros de nuestro club de ciencia. Existen muchas plantas con actividad pesticida, pero hay muchas sin estudio de sus compuestos purificados independientemente. Las más populares son: Tabaco nicotiana, Theprosia, Chrysanthemum (nicotina, rotenona, piretrinas), Ocimum basilicum, Tagetes erecta, Azadirachta indica, Origanum vulgare y Euphorbia láctea. Especies de Burkholderia y piperaceae sin patogenicidad conocida en vertebrados muestran actividad pesticida. Pueden ser compuestos bioactivos como taninos, fenoles y terpenos, monoterpenos, sesquiterpenos, cianohidrinas, ésteres y aceites esenciales. Las hojas de yuca la protegen de orugas, cenizas de hojas de Lantana spp. y Ochroma logopur se usan en polvo contra áfidos en papas, extracto de la semillas de neem (A Indica) como insecticida, extracto de cianohidrinas y esteres de lino, mandioca, hueso de durazno y almendra contra moscas y larvas de mosquito. En los insectos pueden inhibir reguladores de crecimiento, inhibidores de la alimentación, y repelentes por irritación</p></div>
 <br>
+<div style="text-align: right"><img src="7.jpg" width="500" height="200"></div>
+<br>
 <strong><h5>MICROALGAS</h5></strong>
 <br>
 <div style="text-align: justify"><p>Se pueden cultivar usando aguas residuales, reciclando nutrientes y con potencial de usarse como fertilizante, y biocontrolador, algunas incluso actúan como bioestimulantes y biopesticidas, además, reducen las emisiones de gases de efecto invernadero. Los huertos caseros buscan reducir costos y favorecer el medio ambiente, para lo que deben usarse biopesticidas provenientes de plantas, que al degradarse puedan usarse como abono con frecuencia y constancia, también podemos apoyarnos de insectos y hongos que controlan plagas.</p></div>
+<br>
+<div style="text-align: right"><img src="8.jpg" width="500" height="200"></div>
 <br>
 <br>
 <br>
