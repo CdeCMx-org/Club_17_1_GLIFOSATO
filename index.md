@@ -37,23 +37,36 @@ Actualmente, el glifosato es el herbicida más usado a nivel mundial y principal
 <br>
 <center><img src="grafica2.png" width="600" height="300">
 <p><h6><em>Consumo anual de pesticidas a nivel mundial. Fuente: plaguicidas sintéticos: realidad y ficción, marzo 16, 2017</em></h6></p></center>
-
-			<p>Como se observa en la gráfica 2, Se encuentra américa del norte, américa del sur, Australia, Europa, China y amplias  zonas de África, como los principales consumidores de agroquímicos, donde estas mismas zonas coinciden con la  distribución a nivel mundial de las resistencias a herbicidas, ver gráfica 1, Al igual que el análisis anterior, se puede ver,  que las zonas donde hay presencia de resistencia a herbicidas, coinciden con las zonas donde hay producción de cultivos  transgénicos, tal como se observa en la gráfica 3.</p>
-			<center><img src="grafica3.png" width="600" height="300">
-			<p><h6><em>Países productores de cultivos transgenicos. Fuente: Alimentos transgénicos al desnudo (https://www.dw.com/es/actualidad/s-30684)</em></h6></p></center> 
-			<p>Claramente las consecuencias en las afectaciones de la salud humana, se ven reflejadas en mayor medida en las zonas  mencionadas, sin embargo, es importante tener en cuenta que el uso del glifosato es más frecuente en la agricultura y  como también en el uso doméstico, como por ejemplo en huertas de pequeños productores e incluso en huertas  caseras. Como dato importante, en Colombia y en México se ha usado el glifosato de manera descontrolada mediante  la aspersión aérea de glifosato, para la erradicación de cultivos ilícitos de coca, marihuana y amapola, causando daños  a cultivos lícitos, aguas residuales y afectación a la salud pública.</p>
-
-
-			<h4>TOXICIDAD</h4>
-
-
-			<p>A continuación, hablaremos a grandes rasgos de la toxicidad en agua, suelo, alimentos y humanos, mientras explicamos cómo se produce esta cadena.</p>
-			<strong><h5>TOXICIDAD EN EL AGUA</h5></strong>
-			<p>En ecosistemas de agua dulce, muchos plaguicidas llegan de forma directa o indirecta (riego de suelos o aéreo), en donde se acumulan y afectan la calidad del agua, como también de organismos no considerados, modificando la estructura y funcionalidad de ecosistemas acuáticos. Algunas de las afecciones causadas por esto, son el retardo en el crecimiento de organismos como algas y peces, inhibición de la eclosión  de erizos, cambios histopatológicos en branquias de tilapia, como proliferación de células filamentosas e hiperplasia celular, entre otros.</p>
-			<strong><h5>TOXICIDAD EN EL SUELO</h5></strong>
-			<p>En los suelos los herbicidas (como el glifosato), empiezan un proceso de degradación biológica, el cual tiene la capacidad de desplazarse del tejido vegetal hacia el suelo, de manera que las persistencias de los herbicidas pueden aumentar de dos a seis veces en suelos en los que pudiesen existir restos y actuar sobre plantas a los que no se aplicó previamente. Este acumulo genera a su vez, resistencia microbiana o producción de resistencias en las malezas. En el mundo diferentes zonas agrícolas han presentado este tipo de resistencia, la cual se refleja como consecuencia del consumo de agroquímicos en el mundo.</p>
-			<strong><h5>TOXICIDAD EN ALIMENTOS Y ENFERMEDADES EN HUMANOS</h5></strong>
-			<p>Las plantas transgénicas resistentes al glifosato, estas también contienen residuos de herbicidas que presentan una serie de posibles riesgos para la seguridad en animales y seres humanos. A continuación, se presenta un listado de casos de las enfermedades, que encontramos están frecuentemente relacionadas con glifosato. Los posibles daños incluyen: la toxicidad directa del glifosato en sí, que se ha demostrado que puede causar alteraciones endocrinas, daño en el ADN, toxicidad reproductiva y del desarrollo, neurotoxicidad, encefalopatía, parkinsonismo; diferentes tipos de cáncer; linfoma no hodgkin (LNH) y teratogénesis (malformaciones) por defectos de nacimiento; las alergias están aumentando, los animales están mostrando respuestas alérgicas, incluyendo estómagos irritados e inflamados, decoloración de la mucosa gástrica y perforaciones intestinales; lo que se traduce en síntomas conductuales de irritabilidad y comportamiento antisocial en las vacas (anormal en animales de manadas) y otros animales.</p>
+<br>
+<br>
+<br>
+<div style="text-align: justify"><p>Como se observa en la gráfica 2, Se encuentra américa del norte, américa del sur, Australia, Europa, China y amplias  zonas de África, como los principales consumidores de agroquímicos, donde estas mismas zonas coinciden con la  distribución a nivel mundial de las resistencias a herbicidas, ver gráfica 1, Al igual que el análisis anterior, se puede ver,  que las zonas donde hay presencia de resistencia a herbicidas, coinciden con las zonas donde hay producción de cultivos  transgénicos, tal como se observa en la gráfica 3.</p></div>
+<br>
+<br>
+<br>
+<center><img src="grafica3.png" width="600" height="300">
+<p><h6><em>Países productores de cultivos transgenicos. Fuente: Alimentos transgénicos al desnudo (https://www.dw.com/es/actualidad/s-30684)</em></h6></p></center> 
+<br>
+<br>
+<br>			
+<div style="text-align: justify"><p>Claramente las consecuencias en las afectaciones de la salud humana, se ven reflejadas en mayor medida en las zonas  mencionadas, sin embargo, es importante tener en cuenta que el uso del glifosato es más frecuente en la agricultura y  como también en el uso doméstico, como por ejemplo en huertas de pequeños productores e incluso en huertas  caseras. Como dato importante, en Colombia y en México se ha usado el glifosato de manera descontrolada mediante  la aspersión aérea de glifosato, para la erradicación de cultivos ilícitos de coca, marihuana y amapola, causando daños  a cultivos lícitos, aguas residuales y afectación a la salud pública.</p></div>
+<br>
+<br>
+<br>
+<h4>TOXICIDAD</h4>
+<br>
+<div style="text-align: justify"><p>A continuación, hablaremos a grandes rasgos de la toxicidad en agua, suelo, alimentos y humanos, mientras explicamos cómo se produce esta cadena.</p></div>
+<br>
+<strong><h5>TOXICIDAD EN EL AGUA</h5></strong>
+<br>
+<div style="text-align: justify"><p>En ecosistemas de agua dulce, muchos plaguicidas llegan de forma directa o indirecta (riego de suelos o aéreo), en donde se acumulan y afectan la calidad del agua, como también de organismos no considerados, modificando la estructura y funcionalidad de ecosistemas acuáticos. Algunas de las afecciones causadas por esto, son el retardo en el crecimiento de organismos como algas y peces, inhibición de la eclosión  de erizos, cambios histopatológicos en branquias de tilapia, como proliferación de células filamentosas e hiperplasia celular, entre otros.</p></div>
+<br>
+<strong><h5>TOXICIDAD EN EL SUELO</h5></strong>
+<br>
+<div style="text-align: justify"><p>En los suelos los herbicidas (como el glifosato), empiezan un proceso de degradación biológica, el cual tiene la capacidad de desplazarse del tejido vegetal hacia el suelo, de manera que las persistencias de los herbicidas pueden aumentar de dos a seis veces en suelos en los que pudiesen existir restos y actuar sobre plantas a los que no se aplicó previamente. Este acumulo genera a su vez, resistencia microbiana o producción de resistencias en las malezas. En el mundo diferentes zonas agrícolas han presentado este tipo de resistencia, la cual se refleja como consecuencia del consumo de agroquímicos en el mundo.</p></div>
+<br>
+<strong><h5>TOXICIDAD EN ALIMENTOS Y ENFERMEDADES EN HUMANOS</h5></strong>
+<div style="text-align: justify"><p>Las plantas transgénicas resistentes al glifosato, estas también contienen residuos de herbicidas que presentan una serie de posibles riesgos para la seguridad en animales y seres humanos. A continuación, se presenta un listado de casos de las enfermedades, que encontramos están frecuentemente relacionadas con glifosato. Los posibles daños incluyen: la toxicidad directa del glifosato en sí, que se ha demostrado que puede causar alteraciones endocrinas, daño en el ADN, toxicidad reproductiva y del desarrollo, neurotoxicidad, encefalopatía, parkinsonismo; diferentes tipos de cáncer; linfoma no hodgkin (LNH) y teratogénesis (malformaciones) por defectos de nacimiento; las alergias están aumentando, los animales están mostrando respuestas alérgicas, incluyendo estómagos irritados e inflamados, decoloración de la mucosa gástrica y perforaciones intestinales; lo que se traduce en síntomas conductuales de irritabilidad y comportamiento antisocial en las vacas (anormal en animales de manadas) y otros animales.</p></div>
 
 
 			<h4>ESTADÍSTICAS ÍNDICE DE MORTALIDAD/ENFERMEDADES</h4>
