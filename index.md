@@ -89,6 +89,8 @@ Actualmente, el glifosato es el herbicida más usado a nivel mundial y principal
 <br>
 <div style="text-align: justify"><p>Son los métodos más respetuosos con el ambiente y salud de las personas, pueden generar empleos, se usan para remover plantas indeseadas. La extracción manual de malas hierbas es adecuada para pequeños espacios o lugares donde el crecimiento de hierbas es escaso. Las escardas y siegas mecánicas eliminan o recortan hierbas ya germinadas o en desarrollo usando maquinaria en relación al tamaño del área. La escarda térmica aplica calor con quemadores de gas o infrarrojo sobre las hierbas a eliminar para deshidratarlas.</p></div>
 <br>
+<div style="text-align: right"><img src="1.png" width="600" height="300"></div>
+<br>
 <strong><h5>FALSAS SIEMBRAS</h5></strong>
 <br>
 <div style="text-align: justify"><p>Permite eliminar las hierbas y malezas, ideal para antes de establecer una cubierta o acolchado, para lo que se prepara el terreno y se riega provocando que germinen y facilitando su extracción, puede repetirse cuantas veces haga falta.</p></div>
