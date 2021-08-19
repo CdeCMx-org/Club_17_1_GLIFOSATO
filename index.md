@@ -1,9 +1,9 @@
 <html>
-	<head>
+<head>
 			<meta charset="utf-8">
 </head>
-	<body>
-<blockquote>
+<body>
+
 				<center><h2>MENTIRAS DE MUERTE Y GLIFOSATO</h2></center>
 <br>
 <br>
@@ -138,7 +138,5 @@ La pregunta a plantear es, ¿Los compradores están haciendo mal uso del product
 <p><em><h4>“LA OBLIGACIÓN DE RESISTIR NOS DA EL DERECHO DE SABER” ‐RACHEL CARSON.</h4></em></p>
 <br>
 (https://youtu.be/xt4t6A231gM)"VIDEO_EXPLICATIVO_DEL_GLIFOSATO"
-<br>
-<br>
-	</body>
+</body>
 </html>
