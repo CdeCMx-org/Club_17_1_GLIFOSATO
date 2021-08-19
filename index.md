@@ -137,7 +137,7 @@ La pregunta a plantear es, ¿Los compradores están haciendo mal uso del product
 
 <p><em><h4>“LA OBLIGACIÓN DE RESISTIR NOS DA EL DERECHO DE SABER” ‐RACHEL CARSON.</h4></em></p>
 <br>
-<iframe width="560" height="315" src="https://youtu.be/xt4t6A231gM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Video_Glifosato](https://youtu.be/xt4t6A231gM)"VIDEO_EXPLICATIVO_DEL_GLIFOSATO"
 <br>
 BIBLIOGRAFÍA
 <br>
