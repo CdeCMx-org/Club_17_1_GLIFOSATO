@@ -135,7 +135,9 @@
 <div style="text-align: justify"><p>El herbicida como sabemos está estrechamente asociado con la agricultura, usado como medio de cese de maleza, pero, la industria agrícola masiva y de monocultivos, no solo nos oculta el verdadero potencial peligroso de este herbicida, sino que además de ello viene con un acompañante, los OGM. De esta manera ya no solo nos enfrentamos a erradicar el uso de glifosato sino también a frenar la producción de alimentos genéticamente modificados.
 La pregunta a plantear es, ¿Los compradores están haciendo mal uso del producto o las empresas solo buscan monetizar a costa de la salud pública? Por lo cual debemos cambiar y educar la población para el reemplazo de agroquímicos dañinos y con efectos residuales, por soluciones alternativas más amígales con el ambiente y la salud humana.</p></div>
 
-			<p><em><h4>“LA OBLIGACIÓN DE RESISTIR NOS DA EL DERECHO DE SABER” ‐RACHEL CARSON.</h4></em></p>
+<p><em><h4>“LA OBLIGACIÓN DE RESISTIR NOS DA EL DERECHO DE SABER” ‐RACHEL CARSON.</h4></em></p>
+<br>
+<iframe width="560" height="315" src="https://youtu.be/xt4t6A231gM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 BIBLIOGRAFÍA
 <br>
