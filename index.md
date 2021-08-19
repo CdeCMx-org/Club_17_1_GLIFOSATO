@@ -137,28 +137,8 @@ La pregunta a plantear es, ¿Los compradores están haciendo mal uso del product
 
 <p><em><h4>“LA OBLIGACIÓN DE RESISTIR NOS DA EL DERECHO DE SABER” ‐RACHEL CARSON.</h4></em></p>
 <br>
-[Video_Glifosato](https://youtu.be/xt4t6A231gM)"VIDEO_EXPLICATIVO_DEL_GLIFOSATO"
+(https://youtu.be/xt4t6A231gM)"VIDEO_EXPLICATIVO_DEL_GLIFOSATO"
 <br>
-BIBLIOGRAFÍA
 <br>
-<https://www.hsph.harvard.edu/news/hsph-in-the-news/probable-carcinogenic herbicide-breakfast/>
-<https://www.greenpeace.org/mexico/blog/9205/glifosato-herbicida-agentecancerigeno/#origen-glifosato>
-<https://surcosdigital.com/wp-content/uploads/2020/04/Antologia-toxicol%C3%B3gica-del-glifosato-5-ed.pdfGlifosato, el pesticida más peligroso del mundo https://www.youtube.com/watch?v=UFXhiNPK7jA>
-<https://www.youtube.com/watch?v=LS4S4vzGuds&t=1578s>
-<https://grain.org/es/article/6247-glifosato-transgenicos-y-un-experimento-a-cielo-abierto>
-<https://www.primordiales.com.mx/plaguicidas-sinteticos-realidad-y-ficcion/>
-<http://www.fao.org/in action/agronoticias/detail/en/c/496013/>
-<https://www.dw.com/es/alimentos-transg%C3%A9nicos-al-desnudo/a-19156806>
-<http://bases.cortesaragon.es/bases%5CNDocumenVIII.nsf/%28SID%29/C03199F60050BE94C1257ACD002B4E5A/$file/4.pdf?OpenElement.>
-<http://sidal.cl/assets/dinamica glifosato-en-el-suelo-inia-uruguay.pdf.>
-<https://www.ciad.mx/archivos/reduceriesgos/Herbicida%20glifosato.pdf.>
-< https://elordenmundial.com/mapas/impacto-enfermedades cronicas-mundo/>
-<https://www.ecologistasenaccion.org/wp-content/uploads/adjuntos-spip/pdf/alternativas-glifosato.pdf.>
-<http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S1561-30032014000300010.>
-<http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S1010-27522013000200002.>
-<https://patents.google.com/patent/MX2012009909A/es.>
-<http://www.scielo.org.co/pdf/agc/v26n1/v26n1a12.pdf.>
-<https://www.interempresas.net/Horticola/Articulos/350156-Biofertilizantes-base-microalgas-procedentes-tratamiento-aguas-residuales-beneficios.html.>
-
 	</body>
 </html>
